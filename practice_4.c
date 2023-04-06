@@ -2,6 +2,7 @@
 int main()
 {
     int i = 1;
+    int u;
     int input;
     scanf("%d", &input);
     for (i; i <= input; i++)
